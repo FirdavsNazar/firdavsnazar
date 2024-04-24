@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi there! 👋
 
-<!--
-**FirdavsNazar/firdavsnazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fredrick, a Web Developer with a focus on building engaging Web and Home pages.
 
-Here are some ideas to get you started:
+## What I'm Working On 🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm involved in two exciting projects:
+- **KCERA ELECTRON CATALOG**: Crafting a comprehensive electronic catalog for KCERA.
+- **Overseas Manager**: Managing international operations for KCERA.
+
+## About Me 🌱
+
+I'm based in South Korea and currently employed at K-CERA Company. I'm passionate about Java full-stack development and always eager to learn and collaborate.
+
+## Let's Collaborate 👯
+
+I'm open to collaborating on Java projects, especially in the full-stack domain.
+
+## Ask Me About 💬
+
+If you have questions or need assistance with HTML, CSS, JavaScript, TypeScript, or ReactJS, feel free to reach out!
+
+## Contact Me 📫
+
+You can reach me at fredrickuzb55@gmail.com. I'm always happy to connect!
