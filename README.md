@@ -5,7 +5,7 @@ I'm Fredrick, a Web Developer with a focus on building engaging Web and Home pag
 ## What I'm Working On 🔭
 
 Currently, I'm involved in two exciting projects:
-- **KCERA ELECTRON CATALOG**: Crafting a comprehensive electronic catalog for KCERA.
+- **KCERA ELECTRON CATALOG**: Crafting a comprehensive electronic catalog for KCERA  (http://kcera.kr/)
 - **Overseas Manager**: Managing international operations for KCERA.
 
 ## About Me 🌱
