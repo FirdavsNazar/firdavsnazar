@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm Fredrick, a Web Developer with a focus on building engaging Web and Home pages.
+I'm Firdavs, a Web Developer with a focus on building engaging Web and Home pages.
 
 ## What I'm Working On 🔭
 
