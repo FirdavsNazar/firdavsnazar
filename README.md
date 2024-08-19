@@ -10,11 +10,7 @@ Currently, I'm involved in two exciting projects:
 
 ## About Me 🌱
 
-I'm based in South Korea and currently employed at K-CERA Company. I'm passionate about Java full-stack development and always eager to learn and collaborate.
-
-## Let's Collaborate 👯
-
-I'm open to collaborating on Java projects, especially in the full-stack domain.
+I'm based in South Korea and currently employed at K-CERA Company.
 
 ## Ask Me About 💬
 
