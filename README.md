@@ -5,7 +5,7 @@ I'm Firdavs, a Web Developer with a focus on building engaging Web and Home page
 ## What I'm Working On 🔭
 
 Currently, I'm involved in two exciting projects:
-- **CK TOOL HOMEPAGE**: Crafting a comprehensive Homepage for CK TOOL  (https://cktoolkor.netlify.app)
+- **CK TOOL HOMEPAGE**: Crafting a comprehensive Homepage for CK TOOL  (http://cktool.co.kr/)
 - **Overseas Manager**: Managing international operations for KCERA.
 
 ## About Me 🌱
